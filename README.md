@@ -1,1 +1,1 @@
-# Audio processing server and client make with rust
+# Audio processing server and client made with rust
