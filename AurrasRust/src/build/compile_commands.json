@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build",
+  "command": "/sbin/cc    -o CMakeFiles/aurrasd.dir/aurrasd.c.o -c \"/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/aurrasd.c\"",
+  "file": "/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/aurrasd.c"
+},
+{
+  "directory": "/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build",
+  "command": "/sbin/cc    -o CMakeFiles/aurras.dir/aurras.c.o -c \"/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/aurras.c\"",
+  "file": "/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/aurras.c"
+}
+]

@@ -1,0 +1,4 @@
+/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build/CMakeFiles/aurrasd.dir
+/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build/CMakeFiles/aurras.dir
+/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build/CMakeFiles/edit_cache.dir
+/home/afonso/git/Aurras/grupo-106 (Linux Intel)/src/build/CMakeFiles/rebuild_cache.dir

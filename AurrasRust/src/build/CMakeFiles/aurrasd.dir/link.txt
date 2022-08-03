@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/aurrasd.dir/aurrasd.c.o -o aurrasd 

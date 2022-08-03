@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/aurras.dir/aurras.c.o -o aurras 
